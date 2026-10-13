@@ -24,6 +24,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Zephyr177/LibExclaveCore v0.0.0-20261012182259-b3d42fb1372c h1:brMiPkdtnCLOPN2h1pmNSrIT6gdSPs88VxI9QGWBXHU=
 github.com/Zephyr177/LibExclaveCore v0.0.0-20261012182259-b3d42fb1372c/go.mod h1:gUcmVddlXAbWKs/+ssogwZ4jondAAj3i3HJ4mY4anIU=
+github.com/Zephyr177/LibExclaveCore v0.0.0-20261013210028-e07131d94bc2 h1:HvbtlRbGGNTV7XZxE38Axu0iL3YNgtYmkh7cmC99GSA=
+github.com/Zephyr177/LibExclaveCore v0.0.0-20261013210028-e07131d94bc2/go.mod h1:AckIDV0yJtcomU1SHVjQXPrABZ3PbG3Du2j5Jdtq0uE=
 github.com/adrg/xdg v0.5.3 h1:xRnxJXne7+oWDatRhR1JLnvuccuIeCoBu2rtuLqQB78=
 github.com/adrg/xdg v0.5.3/go.mod h1:nlTsY+NNiCBGCK2tpm09vRqfVzrc2fLmXGpBLF0zlTQ=
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmHS9iAKVt9AyzRSqNU1qabPih5BY=

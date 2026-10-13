@@ -665,6 +665,13 @@
     <string-array name="tun_implementation">
         <item>gVisor</item>
         <item>System</item>
+        <item>MIPS</item>
+    </string-array>
+
+    <string-array name="tun_implementation_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 
     <string-array name="network_type_entry">
