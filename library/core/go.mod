@@ -43,6 +43,7 @@ require (
 	github.com/metacubex/hpke v0.1.0 // indirect
 	github.com/metacubex/jls-quic-go v0.0.0-20260727080412-732f2fc9a34d // indirect
 	github.com/metacubex/jls-tls v0.0.0-20260723084315-67adc0e2f796 // indirect
+	github.com/metacubex/mipstack v0.0.0-20260930071539-961d4b1c1983 // indirect
 	github.com/metacubex/mlkem v0.1.0 // indirect
 	github.com/metacubex/randv2 v0.2.1-0.20260726125100-81aa96a9b1a5 // indirect
 	github.com/metacubex/utls v1.8.8 // indirect
@@ -94,7 +95,7 @@ require (
 replace gvisor.dev/gvisor => gvisor.dev/gvisor v0.0.0-20250429202743-3a608a52255d
 
 // use the Zephyr177 fork of the core module
-replace github.com/exclavenetwork/libexclavecore => github.com/Zephyr177/LibExclaveCore v0.0.0-20261013210028-e07131d94bc2
+replace github.com/exclavenetwork/libexclavecore => github.com/Zephyr177/LibExclaveCore v0.0.0-20261014160724-e5434c4a3a4f
 
 // sing-tun's go stack requires the sing dev line (PacketOffload, memory.Limit*)
 replace github.com/sagernet/sing => github.com/sagernet/sing v0.9.5-0.20260917142815-f37989cadbf0
