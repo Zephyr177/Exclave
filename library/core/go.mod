@@ -95,7 +95,7 @@ require (
 replace gvisor.dev/gvisor => gvisor.dev/gvisor v0.0.0-20250429202743-3a608a52255d
 
 // use the Zephyr177 fork of the core module
-replace github.com/exclavenetwork/libexclavecore => github.com/Zephyr177/LibExclaveCore v0.0.0-20261025175935-c093d1464405
+replace github.com/exclavenetwork/libexclavecore => github.com/Zephyr177/LibExclaveCore v0.0.0-20261025181440-0c37071b41dc
 
 // sing-tun's go stack requires the sing dev line (PacketOffload, memory.Limit*)
 replace github.com/sagernet/sing => github.com/sagernet/sing v0.9.5-0.20260917142815-f37989cadbf0
